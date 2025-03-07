@@ -1,7 +1,0 @@
-"Motels", "Motels near Lake Worth, FL"
-"Motels", "Motels near Boynton Beach, FL"
-"Motels", "Motels in 33411"
-"Motels", "Motels in 33444"
-"Motels", "Motels in 33431"
-"Motels", "Budget motels near I-95, FL"
-"Motels", "Extended stay motels in Boca Raton, FL"
