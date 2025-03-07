@@ -31,7 +31,7 @@ This Google Maps scraper is designed for lead generation, using Selenium for aut
    - Recommended settings (based on a test system with **32GB RAM, Ryzen 5800H, and 10Mbps Internet**): **6 to 8 threads**.
 
 4. **Format the Data**
-   - After scraping, run the `FinalFormatter` script to clean and structure the data for better readability and usability. 
+   - After scraping, adjust variables and run the `FinalFormatting` script to clean, filter and structure the data for better readability and usability. 
 
 ## **Generating Search Queries(Prompt to LLM)**
 
